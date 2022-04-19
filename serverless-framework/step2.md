@@ -1,5 +1,4 @@
-In this section we will install AWS CLI and after that we will configure
-AWS credentails for Serverless Framework.
+In this step we will install AWS CLI.
 
 To install AWS CLI we will use command from the [AWS-Documentation](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html) for Linux x86 (64 bit)
 
