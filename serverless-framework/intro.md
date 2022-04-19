@@ -21,15 +21,18 @@ Example use case for Serverless Architecture
 ![serverless](https://github.com/Abdullah1428/katacoda-scenarios/blob/main/assets/serverless.png?raw=true)
 
 ## Some Benefits and Challenges of Serverless Architecture
+
 ### Benefits
 - Cost Effective as Cloud providers charge you on per invocation basis.
 - Scalability as Function instances are automatically created or removed in response to traffic variations.
 - Productivity as Engineers who use serverless can simply deploy their code without having to manage any servers, which helps accelerate delivery cycles and rapidly scale company operations.
+
 ### Challenges
 - Loss of Control as In serverless environments, you lack control over the software stack that your code runs on.
 - Security (always a concern)
 - Performance Impact as cold starts are common in serverless environments, adding several seconds of latency to code execution when functions are invoked after a period of inactivity.
 - Testing as developers can run unit tests on function code, but integration tests, which evaluate how frontend and backend components interact, are difficult to perform in a serverless environment.
+
 ## Now What is Serverless Framework?
 The Serverless Framework says on their website "Develop, deploy, troubleshoot and secure your serverless applications with radically less overhead and cost by using the Serverless Framework. The Serverless Framework consists of an open source CLI and a hosted dashboard. Together, they provide you with full serverless application lifecycle management".
 
