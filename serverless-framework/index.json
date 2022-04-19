@@ -34,9 +34,8 @@
     }
   },
   "environment": {
-    "uilayout": "terminal-iframe",
-    "uimessage1": "\u001b[32mWe should have a freshly brewed work environment ready for you.\u001b[m\r\n",
-    "showide": true
+    "uilayout": "terminal",
+    "uimessage1": "\u001b[32mWe should have a freshly brewed work environment ready for you.\u001b[m\r\n"
   },
   "backend": {
     "imageid": "nodejs:16"
