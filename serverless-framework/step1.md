@@ -6,7 +6,7 @@ Node.js and NPM is configured in the environment.
 
 `npm --version`{{execute}}
 
-Now to install the Serverless Framework, execute the command in your work environment.
+Now to install the Serverless Framework, execute the command in the work environment.
 
 `npm install serverless -g`{{execute}}
 
