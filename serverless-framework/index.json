@@ -1,6 +1,6 @@
 {
-  "title": "Serverless Framework and NodeJS",
-  "description": "Creating NodeJS backend applications with serverless framework",
+  "title": "Serverless Framework and AWS",
+  "description": "Creating a NodeJS serverless application with serverless framework and AWS",
   "difficulty": "Beginner",
   "time": "15",
   "details": {
