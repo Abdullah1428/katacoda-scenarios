@@ -49,7 +49,10 @@ Go Serverless. Deploy the use-cases you love, on auto-scaling infra.
 You can deploy many familiar use-cases instantly with the Serverless Framework. From REST APIs on Node.js, Python, Go, Java, to GraphQL APIs, scheduled tasks, Express.js applications, and front-end applications.
 
 ## What prior experience & tools are required?
-This tutorial is intended for beginners new to serverless computing. We will install the tools step by step. But to give
-yourself an edge, one can read more about serverless framework [here](https://www.serverless.com/)
+This tutorial is intended for beginners new to serverless computing. We will install the tools step by step but
+you will need to signup for AWS account in order to complete this tutorial. AWS provides one year of free trial
+so no real money will be charged during this tutorial [AWS-Account](https://portal.aws.amazon.com/billing/signup#/start/email). 
+
+To give yourself an edge, one can read more about serverless framework [here](https://www.serverless.com/). 
 
 By [Abdullah](https://github.com/Abdullah1428) & [Aksel Uhr](https://github.com/Akseluhr)
