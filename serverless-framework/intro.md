@@ -18,4 +18,4 @@ Serverless architecture is an approach to software design that allows developers
 One of the most popular serverless architectures is Function as a Service (FaaS), where developers write their application code as a set of discrete functions. Each function will perform a specific task when triggered by an event, such as an incoming email or an HTTP request. After the customary stages of testing, developers then deploy their functions, along with their triggers, to a cloud provider account. When a function is invoked, the cloud provider either executes the function on a running server, or, if there is no server currently running, it spins up a new server to execute the function. This execution process is abstracted away from the view of developers, who focus on writing and deploying the application code.
 
 Example use case for Serverless Architecture
-![serverless-use-case](../assets/serverless-architecture-use-case.avif)
+![serverless](https://github.com/Abdullah1428/katacoda-scenarios/blob/main/assets/serverless.png?raw=true)
