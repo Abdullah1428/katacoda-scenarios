@@ -10,7 +10,7 @@ Welcome to this tutorial on *Serverless Framework*! which is all-in-one developm
 - Build our first NodeJS Serverless application using templates from Serverless Framework.
 - Deploy and Run our application on AWS Lambda.
 
-## What is Serverless Computing/Architecture?
+## Motivation - Serverless Computing/Architecture taking DevOps to the Next Level
 Serverless computing is a cloud computing execution model in which the cloud provider allocates machine resources on demand, taking care of the servers on behalf of their customers. "Serverless" is a misnomer in the sense that servers are still used by cloud service providers to execute code for developers.
 
 Serverless architecture is an approach to software design that allows developers to build and run services without having to manage the underlying infrastructure. Developers can write and deploy code, while a cloud provider provisions servers to run their applications, databases, and storage systems at any scale.
