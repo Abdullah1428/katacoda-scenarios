@@ -37,6 +37,6 @@
     "uilayout": "terminal-iframe"
   },
   "backend": {
-    "imageid": "nodejs:16"
+    "imageid": "node6"
   }
 }
