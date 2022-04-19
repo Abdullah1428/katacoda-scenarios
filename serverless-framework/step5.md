@@ -9,6 +9,12 @@ To deploy the application execute the following command,
 
 The above command deployes the application and the deployment is handled by the [AWS CloudFormation](https://aws.amazon.com/cloudformation/). The deployment may take some time.
 
-After a successfull deployment we can see some information about our service at the end. We also get an endpoint for the serivce which is an url that can be run in a browser and we get the response back from the handler.
+After a successfull deployment we can see some information about our service at the end. 
+
+To invoke our application we get an endpoint for the serivce which is an url that can be run in a browser and we get the response back from the handler. We can also invoke it by executing the command,
+
+`sls invoke -f hello`{{execute}}
+
+We can see the output in the terminal and so we know that we have successfully deployed our application.
 
 In the last step we will just see the CloudFormation in our AWS account to get the idea what Serverless Framework does for us and how Serverless has made the deployment and scaling of applications easy.
