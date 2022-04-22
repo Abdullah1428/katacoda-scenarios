@@ -7,7 +7,7 @@ For this tutoiral, we will use an open source template which uses latest version
 
 We will generate the application scaffolding, which will in turn generate an AWS Lambda function in Node.js. Execute the following command.
 
-`sls create --name YOUR_PROJECT_NAME --template-url https://github.com/Abdullah1428/serverless-base-template`{{execute}}
+`sls create --name demo --template-url https://github.com/Abdullah1428/serverless-base-template`{{execute}}
 
 The next step is to install the dependencies for this template. Execute the following command which will install all the dependencies required for this template.
 
@@ -15,7 +15,7 @@ The next step is to install the dependencies for this template. Execute the foll
 
 Let's talk about the structure of this project
 
-`cd YOUR_PROJECT_NAME && ls`{{execute}}
+`cd demo && ls`{{execute}}
 
 We see `serverless.yml` file. This file is the heart of our serverless application written in YAML where you define your Functions, the Events that trigger them, and the Resources your Functions use.
 
