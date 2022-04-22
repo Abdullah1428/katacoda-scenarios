@@ -11,6 +11,8 @@ We will generate the application scaffolding, which will in turn generate an AWS
 
 The next step is to install the dependencies for this template. Execute the following command which will install all the dependencies required for this template.
 
+`cd demo`{{execute}}
+
 `npm install`{{execute}}
 
 Let's talk about the structure of this project
